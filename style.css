@@ -1,0 +1,14 @@
+h1, h2, h3{
+    text-align: center;
+    color: red;}
+body{
+    h1{ background-color: antiquewhite;
+    text-align: center;
+    font-size : medium;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    }
+}
+.box-1{
+    color: royalblue;
+}
